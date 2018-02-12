@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/inicioItem"
+        android:icon="@drawable/ic_home"
+        android:title="@string/start" />
+
+    <item
+        android:id="@+id/addItem"
+        android:icon="@drawable/ic_add"
+        android:title="@string/add" />
+
+    <item
+        android:id="@+id/searchItem"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/search" />
+
+    <item
+        android:id="@+id/bookItem"
+        android:icon="@drawable/ic_book"
+        android:title="@string/book" />
+
+    <item
+        android:id="@+id/profileItem"
+        android:icon="@drawable/ic_person"
+        android:title="@string/profile" />
+
+</menu>
